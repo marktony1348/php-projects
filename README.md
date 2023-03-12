@@ -10,7 +10,7 @@
 **Overview**:
 - A personal basic php project as serverside logic. 
   It uses majorly Html, Css, javascript for the UI layout and applies php for use on the back end.
-<img src="img/screenshot.png" height= '700' width= '700'>
+<img src="img/Bball.PNG" height= '300' width= '300'>
 
 
 **Tools**:
